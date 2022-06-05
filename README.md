@@ -1,4 +1,12 @@
-# template for new html projects using vite and github pages
+# template for new html projects using vite, tailwindcss and github pages
+
+## useful commands
+
+```bash
+# build and upload to github
+
+yarn build && yarn deploy
+```
 
 ## note
 
